@@ -1,5 +1,5 @@
 # Network Scanner
-* Platform: macOS
+* Platforms tested: macOS
 * Language: Python 3, JSON
 * Time to run: 8m 30s
 
