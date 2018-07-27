@@ -7,4 +7,4 @@ These utilities are primarly written in Python 3 and JSON.
   * Platforms tested: macOS
   * Usage: `python3 mac_online.py`
   * Dependencies: None
-  * Time to run: Unknown
+  * Time to run: Depends on IP address location
