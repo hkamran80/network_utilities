@@ -9,3 +9,9 @@ These utilities are primarly written in Python 3 and JSON.
   * Usage: `python3 mac_online.py`
   * Dependencies: None
   * Time to run: Depends on IP address location
+* `port_scanner.py`: Scan for open ports on a given IP
+  * Platforms tested: macOS, Linux
+  * Language: Python 3
+  * Usage: `python3 port_scanner.py {remote_device_ip} {OPTIONAL: port_to_scan_up_to}`
+  * Dependencies: None
+  * Time to run: Depends on maximum port to scan
