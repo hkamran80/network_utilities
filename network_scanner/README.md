@@ -1,7 +1,9 @@
 # Network Scanner
+* Changelog: [Network Scanner](https://github.com/hkamran80/network_utilities/wiki/Network-Scanner:-Changelog)
+* Version: 1.1
 * Platforms tested: macOS
-* Language: Python 3, JSON
-* Time to run: 8m 30s
+* Language(s): Python 3, JSON
+* Time to run: ~8 minutes
 
 # Files
 * `known.json`: Known MAC addresses
