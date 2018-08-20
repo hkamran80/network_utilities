@@ -1,8 +1,8 @@
 # Network Scanner
 * [Changelog](https://github.com/hkamran80/network_utilities/wiki/Network-Scanner:-Changelog)
-* Version: 1.1
-* Platforms tested: macOS
-* Language(s): Python 3, JSON
+* Version: ![1.1](https://badgen.net/badge/version/1.1/blue)
+* Platforms tested: ![macOS](https://badgen.net/badge/platform/macOS/green)
+* Language(s): ![python3](https://badgen.net/badge/language/python3/green) ![JSON](https://badgen.net/badge/language/json/green)
 * Time to run: ~8 minutes
 
 # Files
